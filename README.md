@@ -1,0 +1,1 @@
+Foundatation of Data Analysis Part 1. Fundamental statistical analysis and conclusions, based on numerical and categorical datasets.
